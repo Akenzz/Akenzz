@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey,+I'm+Amogh+Kini;Full-Stack+Developer;AI+Agents" alt="Typing SVG" />
 
 <p align="center">
-   building the future with <b>Next.js</b>, <b>Python</b>, and <b>Generative AI</b>.
+   FullStack Developer | Cpp, DSA | AI Agents
 </p>
 
 <p align="center">

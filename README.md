@@ -72,10 +72,10 @@
   </a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://leetcode.com/u/winkin/">
     <img src="https://leetcard.jacoblin.cool/winkin?theme=tokyonight&font=Fira%20Code&ext=heatmap" width="85%" alt="LeetCode Stats" />
   </a>
-</div>
+</div> -->
 
 </div>

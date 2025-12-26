@@ -59,7 +59,7 @@
   </a>
 </p>
 
-<br/>
+<!-- <br/>
 
 <h2 align="center">🏆 Competitive Programming</h2>
 
@@ -70,7 +70,7 @@
   <a href="https://leetcode.com/u/winkin/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
   </a>
-</p>
+</p> -->
 
 <!-- <div align="center">
   <a href="https://leetcode.com/u/winkin/">

@@ -19,7 +19,9 @@
   
   <p>
     <a href="https://amogh-kini.netlify.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" /></a>&nbsp;&nbsp;
-    <a href="mailto:kiniamogh91@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kiniamogh91@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
   </p>
   
   <p>

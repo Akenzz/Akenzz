@@ -40,13 +40,13 @@
 <div align="center">
   <h3>Tech Stack</h3>
   <br>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,css,react,nextjs,vite&theme=dark" alt="Languages and Frontend" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,css,react,nextjs&theme=dark" alt="Languages and Frontend" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,mongodb,mysql,postgres,sqlite&theme=dark" alt="Backend and Databases" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=redis,firebase,supabase,cloudflare,docker,aws,linux,git,github&theme=dark" alt="Cloud and Tools" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=postman,arduino,electron,pytorch,sklearn&theme=dark" alt="Hardware and Machine Learning" />
+  <img src="https://skillicons.dev/icons?i=postman,electron,pytorch,sklearn&theme=dark" alt="Hardware and Machine Learning" />
   <br><br>
   <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="44" height="44" alt="Pandas" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="44" height="44" alt="Hugging Face" /></a>&nbsp;&nbsp;&nbsp;

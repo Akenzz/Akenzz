@@ -60,11 +60,21 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Akenzz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true" alt="GitHub Stats" />
+  <img
+    height="160"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akenzz&theme=github_dark"
+    alt="GitHub Stats"
+  />
   &nbsp;&nbsp;
-  <img height="160" src="https://streak-stats.demolab.com?user=Akenzz&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img
+    height="160"
+    src="https://streak-stats.demolab.com?user=Akenzz&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"
+    alt="GitHub Streak"
+  />
 </div>
 
-<br>
+<br/>
 
-<h4 align="center">Thanks for visiting my profile! Let's connect and build something awesome.</h4>
+<div align="center">
+  <b>Thanks for visiting my profile! Let's connect and build something awesome.</b>
+</div>
